@@ -160,7 +160,7 @@ margin-top: 8px;
 }
 
 .skills__item:first-child {
-  margin 0;
+  margin: 0;
 }
 /* #endregion */
 
@@ -183,6 +183,6 @@ margin-top: 8px;
 }
 
 .tools__item:first-child {
-  margin 0;
+  margin: 0;
 }
 /* #endregion */
